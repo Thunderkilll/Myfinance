@@ -1,0 +1,14 @@
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Service\bin\Debug\Service.dll.config
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Service\bin\Debug\Service.dll
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Service\bin\Debug\Service.pdb
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Service\bin\Debug\Data.dll
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Service\bin\Debug\Domain.dll
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Service\bin\Debug\EntityFramework.dll
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Service\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Service\bin\Debug\Data.pdb
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Service\bin\Debug\Domain.pdb
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Service\bin\Debug\EntityFramework.xml
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Service\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Service\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Service\obj\Debug\Service.dll
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Service\obj\Debug\Service.pdb

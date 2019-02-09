@@ -1,0 +1,10 @@
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Domain\bin\Debug\Domain.dll.config
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Domain\bin\Debug\Domain.dll
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Domain\bin\Debug\Domain.pdb
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Domain\bin\Debug\EntityFramework.dll
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Domain\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Domain\bin\Debug\EntityFramework.xml
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Domain\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Domain\obj\Debug\Domain.csprojResolveAssemblyReference.cache
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Domain\obj\Debug\Domain.dll
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Domain\obj\Debug\Domain.pdb
