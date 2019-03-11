@@ -1,0 +1,16 @@
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Myfinance.GUI\bin\Debug\Myfinance.GUI.exe.config
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Myfinance.GUI\obj\Debug\Myfinance.GUI.csprojResolveAssemblyReference.cache
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Myfinance.GUI\bin\Debug\Myfinance.GUI.exe
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Myfinance.GUI\bin\Debug\Myfinance.GUI.pdb
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Myfinance.GUI\bin\Debug\Data.dll
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Myfinance.GUI\bin\Debug\Domain.dll
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Myfinance.GUI\bin\Debug\Service.dll
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Myfinance.GUI\bin\Debug\EntityFramework.dll
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Myfinance.GUI\bin\Debug\Data.pdb
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Myfinance.GUI\bin\Debug\Domain.pdb
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Myfinance.GUI\bin\Debug\Service.pdb
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Myfinance.GUI\bin\Debug\EntityFramework.xml
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Myfinance.GUI\obj\Debug\Myfinance.GUI.exe
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Myfinance.GUI\obj\Debug\Myfinance.GUI.pdb
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Myfinance.GUI\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\khaled22\Desktop\Simsem2\dotNet\Myfinance\Myfinance.GUI\bin\Debug\EntityFramework.SqlServer.xml

@@ -10,7 +10,7 @@ namespace Data
     public class MyfinanceContext : System.Data.Entity.DbContext
     {
 
-        public MyfinanceContext():base("Name=Alias")
+        public MyfinanceContext() : base("Name=Alias")
         {
 
         }

@@ -14,8 +14,11 @@ namespace Domain
         public double Price { get; set; }
         public int ProductId { get; set; }
         public int Quantity { get; set; }
+        //clé etrangére convention : donne colone wa7da
         public Category Category { get; set; }
-        public int CategoryId { get; set; }
+        public int? CategoryId { get; set; }
+        //? : nullable 
+        //les champs numerique sont obligatoire 
         public ICollection<Provider> Providers { get; set; }
     }
 }

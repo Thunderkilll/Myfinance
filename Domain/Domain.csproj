@@ -49,6 +49,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Adress.cs" />
     <Compile Include="Biological.cs" />
     <Compile Include="Category.cs" />
     <Compile Include="Chemical.cs" />
